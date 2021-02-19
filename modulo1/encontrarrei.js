@@ -1,5 +1,5 @@
 var baralho = ["Ás", "Dama", "Rei", "Valete"]
-  
+
 //Seu código aqui
 function encontrarRei(){
     for(var i =0; i < baralho.length; i++){
