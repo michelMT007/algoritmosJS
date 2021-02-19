@@ -8,6 +8,5 @@ function calculaValorDevido(pesoDeRoupaSuja){
         console.log(valorcorreto);
     }
     return valorcorreto;
-
 }
 calculaValorDevido(5);
